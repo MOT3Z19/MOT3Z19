@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=motaz&label=Profile%20views&color=0e75b6&style=flat" alt="motaz](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" /> </p>
 
 - 🔭 I’m currently working on [Balditi App](https://github.com/MOT3Z19/Graduation-Project.git)
 
