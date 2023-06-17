@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MOT3Z 👋🏼 👨🏻‍💻</h1>
 <h3 align="center">I'm passionate about turning data into insights that help businesses make better decisions during the day. I also enjoy designing and building progressive web apps that provide a great user experience in the night and also i'm a computer science engineer who is passionate about making open-source more accessible. Some technologies I enjoy working with include Flutter.</h3>
 
-https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTIxMWU0ODQwOTBmYjRiNGNlMWE4YjAxOTdlYWVkODQwYjQ4MDExZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/lP8xu5t2DLGG045H8F/giphy.gif
+https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=motaz&label=Profile%20views&color=0e75b6&style=flat" alt="motaz" /> </p>
 
