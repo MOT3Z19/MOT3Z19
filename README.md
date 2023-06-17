@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MOT3Z 👋🏼 👨🏻‍💻</h1>
 <h3 align="center">I'm passionate about turning data into insights that help businesses make better decisions during the day. I also enjoy designing and building progressive web apps that provide a great user experience in the night and also i'm a computer science engineer who is passionate about making open-source more accessible. Some technologies I enjoy working with include Flutter.</h3>
 
-https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=motaz&label=Profile%20views&color=0e75b6&style=flat" alt="motaz" /> </p>
+
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=motaz&label=Profile%20views&color=0e75b6&style=flat" alt="motaz](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" /> </p>
 
 - 🔭 I’m currently working on [Balditi App](https://github.com/MOT3Z19/Graduation-Project.git)
 
