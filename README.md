@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Balditi App](https://github.com/MOT3Z19/Graduation-Project.git)
 
-- 🌱 I’m currently learning **Islamic University**
+- 🌱 I am a graduate of **Islamic University**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MOT3Z19](https://github.com/MOT3Z19)
 
